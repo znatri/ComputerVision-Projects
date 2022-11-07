@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+src/vision/__init__.py
+src/vision/part1_harris_corner.py
+src/vision/part2_patch_descriptor.py
+src/vision/part3_feature_matching.py
+src/vision/part4_sift_descriptor.py
+src/vision/utils.py
+src/vision.egg-info/PKG-INFO
+src/vision.egg-info/SOURCES.txt
+src/vision.egg-info/dependency_links.txt
+src/vision.egg-info/top_level.txt
